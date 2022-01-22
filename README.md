@@ -36,4 +36,4 @@ Use this bot at your own risk, don't try to trade with real money before making 
 - [SQLite python library documentaion](https://docs.python.org/3/library/sqlite3.html "SQLite python library documentaion python library documentaion")
 
 
-If you find this helpfull you can support me by registering with Binance ref link: https://accounts.binance.com/en/register?ref=TVUOOEYC or donate to my bsc: 0xC9EC96b42a5B53d32FF85fD40283252DDb81EE68
+If you find this helpfull you can support me by registering with Binance ref link: https://accounts.binance.com/en/register?ref=TVUOOEYC
