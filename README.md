@@ -30,7 +30,7 @@ Use this bot at your own risk, don't try to trade with real money before making 
 
 ## Sidenotes
 
-- Yotube video with more explanation: 
+- Yotube video with more explanation: https://www.youtube.com/watch?v=hmAKQdFF7h4&t=1116s
 - [Talib python library](https://github.com/mrjbq7/ta-lib "Talib python library") 
 - [WEB3 python library documentaion](https://web3py.readthedocs.io/en/stable/ "WEB3 python library documentaion")
 - [SQLite python library documentaion](https://docs.python.org/3/library/sqlite3.html "SQLite python library documentaion python library documentaion")
